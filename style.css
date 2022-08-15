@@ -38,9 +38,9 @@ desktop width: 1440px;
 
 body {
     margin: 0;
-    padding: 5px;;
+    padding: 5px;
     min-height: 100vh;
-    max-width: var(--desktop-width);
+    max-width: 1440px;
 
     font-size: var(--font-size-paragraph);
 
