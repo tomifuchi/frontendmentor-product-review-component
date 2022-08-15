@@ -37,8 +37,8 @@ desktop width: 1440px;
 }
 
 body {
-    margin: 80px;
-    padding: 0;
+    margin: 0;
+    padding: 5px;;
     min-height: 100vh;
     max-width: var(--desktop-width);
 
@@ -59,7 +59,7 @@ body {
 
 .container {
     margin: 0 auto;
-    padding: ;
+    padding: 0;
     max-width: 720px;
     height: auto;
 
@@ -67,7 +67,6 @@ body {
     overflow: hidden;
 
     background-color: var(--col-neu3);
-    flex-flow: row wrap;
 }
 
 
@@ -170,7 +169,7 @@ body {
 }
 
 /* Media queries */
-@media (max-width: 375px) {
+@media (max-width: 480px) {
     body {
         margin: 0 auto;
         padding: 10px;
