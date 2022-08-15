@@ -2,6 +2,15 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
+## My take on this challenge
+
+It seems like I need to work more on how to presents pictures on
+multiple device, I feel like it
+could be better. Otherwise if not pixel perfectly accurate, I think this
+is a pretty decent take on this challenge.
+
+I don't know if I should use rems/ems instead of px ?
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.

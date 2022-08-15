@@ -67,6 +67,7 @@ body {
     overflow: hidden;
 
     background-color: var(--col-neu3);
+    flex-flow: row wrap;
 }
 
 
